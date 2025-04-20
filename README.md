@@ -1,3 +1,31 @@
+# QA Studies
+
+Este repositório foi criado como parte de meus estudos quando eu comecei a estudar programação, utilizando o Robot Framework e as ferramentas da Robocorp para automação de tarefas e testes.
+
+## Sobre o Projeto
+
+- **Robotframework**: Automação, leitura e inserção de dados no site da Robocorp.
+
+## Requisitos
+
+Para executar os projetos, é necessário:
+
+- Python instalado
+- Robot Framework configurado
+- Extensões da Robocorp
+
+## Observações
+
+- Este repositório foi criado apenas para aprendizado e contém implementações iniciais.
+- Como toda a proposta do curso diretamente do site da robocorp é de livre acesso, todos os dados pertecem a eles.
+- Utilizei o python e as ferramentas e bibliotecas de RPA da Robocorp.
+
+## Status
+
+O projeto está completo, sendo muito mais uma prova de conhecimento que eles disponibilizaram.
+
+---
+
 # Template: Python - Minimal
 
 This template leverages the new Python open-source structure [robo](https://github.com/robocorp/robo), the [libraries](https://github.com/robocorp/robo#libraries) from to same project as well.
